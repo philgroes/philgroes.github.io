@@ -12,9 +12,11 @@ I am a **Master's student** in political science at Freie Universität Berlin. H
 - Researched in international political economy - especially capitalism and inequality - with a focus on development, extractivism, international financial institutions, and public opinion in African contexts
 - Contributed to initiatives aimed at reducing inequality in the German housing sector and supporting socially sustainable urban transformation
 - Worked on questions of technology, democracy, and digital governance — including algorithms, media systems, and political participation
+
 **Research Interests**
 - Exploring the systemic effects of capitalism and investigating alternative societal and economic models
 - Advancing political agency and transformative change in response to contemporary global crises
+
 **Guiding Practices**
 - Supporting a shift in collective consciousness necessary for sustainable and democratic transformation
 - Fostering compassion, belonging, and stronger collective identities
