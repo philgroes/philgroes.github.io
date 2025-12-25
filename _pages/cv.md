@@ -10,7 +10,7 @@ title: "CV"
 
 **BA Political Science at Freie Universität Berlin**
 *2018 – 2023*
-- Thesis: "Resource Conflicts in the Democratic Republic of Congo"
+- Thesis: "Conflicts and Extractivism: Case Study on the Influence of Local Power Dynamics in the Eastern Democratic Republic of Congo"
 - Grade: 1.3 (very good)
 - Erasmus semester at Universidad Complutense de Madrid, 2022–2023
 
