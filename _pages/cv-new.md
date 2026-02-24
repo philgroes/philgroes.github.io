@@ -206,8 +206,8 @@ author_profile: true
 
 <!-- HEADER -->
 <div class="cv-header">
-  <h1>Curriculum<br>Vitae</h1>
-  <p class="tagline">Political Science · Transformation · Critique & Hope</p>
+  <h1>Philipp<br>Groeschel</h1>
+  <p class="tagline">Political Science, Political Economy, Transformation</p>
 </div>
 
 <!-- EDUCATION -->
