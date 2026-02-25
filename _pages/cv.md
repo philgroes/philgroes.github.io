@@ -46,4 +46,24 @@ title: "CV"
 **Co-Editor in Chief at Campus Magazine „FURIOS", Freie Universität Berlin**
 *February 2021 – July 2021*
 - Led the editorial team during weekly meetings
-- Coordinated production of a print issue that won 2nd place in the ProCampusPresse Award
+- Oversaw and coordinated the conception of a print issue, which won second place in the ProCampusPresse Award
+- Wrote, edited, and managed diverse journalistic contributions
+
+---
+
+### Other Qualifications
+
+**Languages**
+- German: Native Speaker
+- English: Fluent (spoken & written)
+- French: Fluent (spoken & written)
+- Spanish: Fluent (spoken & written)
+
+**IT & Digital Skills**
+- Data Analysis: R (statistical analysis, data visualization)
+- Software: MS Office, Open-Source alternatives (LibreOffice)
+- Web & Digital: CMS, Social Media Management, SEO basics
+- Design: Canva
+
+**Social Activities**
+- Volunteer for the Berlin Food Bank (Berliner Tafel), since December 2021
