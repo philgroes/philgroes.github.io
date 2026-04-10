@@ -382,7 +382,7 @@ author_profile: true
     <div class="cv-skill-row"><span class="cv-skill-label">Data Analysis</span><span class="cv-skill-value">R (statistical analysis, data visualization)</span></div>
     <div class="cv-skill-row"><span class="cv-skill-label">Software</span><span class="cv-skill-value">MS Office, LibreOffice</span></div>
     <div class="cv-skill-row"><span class="cv-skill-label">Web &amp; Digital</span><span class="cv-skill-value">CMS, Social Media Management, SEO basics</span></div>
-    <div class="cv-skill-row"><span class="cv-skill-label">Design</span><span class="cv-skill-value">Canva</span></div>
+    <div class="cv-skill-row"><span class="cv-skill-label">Design</span><span class="cv-skill-value">Canva, Affinity</span></div>
     <div class="cv-skill-row"><span class="cv-skill-label">Other</span><span class="cv-skill-value">Driver's Licence (Class B)</span></div>
   </div>
 </div>
