@@ -1,6 +1,6 @@
 ---
 title: "System Change, Transformation, and the Question of Emotions"
-date: 2026-04-10T14:34:30-04:00
+date: 2026-04-10T10:00:00+02:00
 categories:
   - blog
 tags:
