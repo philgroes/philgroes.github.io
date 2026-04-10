@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am a **Master's student** in political science at Freie Universität Berlin. Here is an overview of some projects I worked on, my major research interests, and some guiding practices for my work:
+I am a **Master's student** in political science at Freie Universität Berlin. I am currently working at the SCRIPTS Forum at FU Berlin where I'm planning and conceptualizing events around AI governance and political order. Here is an overview of some projects I worked on, my major research interests, and some guiding practices for my work:
 
 **Projects & Experience**
 - Researched in international political economy - especially capitalism and inequality - with a focus on development, extractivism, international financial institutions, and public opinion in African contexts
